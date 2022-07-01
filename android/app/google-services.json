@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438018356072",
+    "firebase_url": "https://rehab-2971d-default-rtdb.firebaseio.com",
+    "project_id": "rehab-2971d",
+    "storage_bucket": "rehab-2971d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438018356072:android:442694a282aa0ed59e1cdd",
+        "android_client_info": {
+          "package_name": "com.example.rehab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438018356072-be62p0bcgo1pn8g7b0emkrdu6f6gl72l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIBW-fbqfrGx6rNppHz9hwt6_fUq0nE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438018356072-be62p0bcgo1pn8g7b0emkrdu6f6gl72l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438018356072-h8v1odk4imp2ugbqpvmp6vhlul262bb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rehab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
